@@ -1,6 +1,6 @@
 ## fishy-drupal
 
-A theme for the [oh-my-fish](https://github.com/bpinto/oh-my-fish) plugin to the [fish shell](http://fishshell.com/). 
+A theme for the [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) plugin to the [fish shell](http://fishshell.com/). 
 
 ![fishy-drupal](https://raw.github.com/greggles/fishy-drupal/master/drups-fish-theme.png)
 
